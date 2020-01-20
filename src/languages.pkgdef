@@ -1,0 +1,25 @@
+﻿; Registers the language grammar files with Visual Studio
+[$RootKey$\TextMate\Repositories]
+"APL"="$PackageFolder$\Grammars"
+
+; Associate icons with file extensions in Solution Explorer
+[$RootKey$\ShellFileAssociations\.apl]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.apla]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.aplc]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.aplf]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.apli]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.apln]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.aplo]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.dyalog]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.dyapp]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
+[$RootKey$\ShellFileAssociations\.mipage]
+"DefaultIconMoniker"="afc38e2a-35f2-4abe-bc37-1b30ede4af13:0"
