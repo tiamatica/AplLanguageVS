@@ -1,0 +1,25 @@
+﻿; Registers the language grammar files with Visual Studio
+[$RootKey$\TextMate\Repositories]
+"APL"="$PackageFolder$\Grammars"
+
+; Dyalog
+[$RootKey$\ShellFileAssociations\.apl]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.apla]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.aplc]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.aplf]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.apli]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.apln]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.aplo]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.dyalog]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.dyapp]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
+[$RootKey$\ShellFileAssociations\.mipage]
+"DefaultIconMoniker"="5d8bf83a-3274-48a4-ba41-288fdbac37df:0"
